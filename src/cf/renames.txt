@@ -1,3 +1,6 @@
 ﻿ConfigDumpInfo.xml-->ConfigDumpInfo.xml
 Configuration.xml-->Configuration.xml
+CommonModules\ОбщийМодуль1.xml-->CommonModules\ОбщийМодуль1.xml
+CommonModules\ОбщийМодуль1\Ext\Module.bsl-->CommonModules\ОбщийМодуль1\Ext\Module.bsl
+DataProcessors\Обработка1.xml-->DataProcessors\Обработка1.xml
 Languages\Русский.xml-->Languages\Русский.xml

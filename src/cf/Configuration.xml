@@ -125,6 +125,7 @@
 			<Language>Русский</Language>
 			<CommonModule>ОбщийМодуль1</CommonModule>
 			<Catalog>Справочник1</Catalog>
+			<Document>Документ1</Document>
 			<DataProcessor>Обработка1</DataProcessor>
 		</ChildObjects>
 	</Configuration>

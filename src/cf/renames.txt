@@ -9,4 +9,8 @@ DataProcessors\Обработка1\Ext\ObjectModule.bsl-->DataProcessors\Обр�
 DataProcessors\Обработка1\Forms\Форма.xml-->DataProcessors\Обработка1\Forms\Форма.xml
 DataProcessors\Обработка1\Forms\Форма\Ext\Form.xml-->DataProcessors\Обработка1\Forms\Форма\Ext\Form.xml
 DataProcessors\Обработка1\Forms\Форма\Ext\Form\Module.bsl-->DataProcessors\Обработка1\Forms\Форма\Ext\Form\Module.bsl
+Documents\Документ1.xml-->Documents\Документ1.xml
+Documents\Документ1\Forms\ФормаДокумента.xml-->Documents\Документ1\Forms\ФормаДокумента.xml
+Documents\Документ1\Forms\ФормаДокумента\Ext\Form.xml-->Documents\Документ1\Forms\ФормаДокумента\Ext\Form.xml
+Documents\Документ1\Forms\ФормаДокумента\Ext\Form\Module.bsl-->Documents\Документ1\Forms\ФормаДокумента\Ext\Form\Module.bsl
 Languages\Русский.xml-->Languages\Русский.xml

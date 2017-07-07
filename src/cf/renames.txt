@@ -1,6 +1,7 @@
 ﻿ConfigDumpInfo.xml-->ConfigDumpInfo.xml
 Configuration.xml-->Configuration.xml
 Catalogs\Справочник1.xml-->Catalogs\Справочник1.xml
+Catalogs\Справочник1\Ext\ObjectModule.bsl-->Catalogs\Справочник1\Ext\ObjectModule.bsl
 CommonModules\ОбщийМодуль1.xml-->CommonModules\ОбщийМодуль1.xml
 CommonModules\ОбщийМодуль1\Ext\Module.bsl-->CommonModules\ОбщийМодуль1\Ext\Module.bsl
 DataProcessors\Обработка1.xml-->DataProcessors\Обработка1.xml

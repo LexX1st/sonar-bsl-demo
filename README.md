@@ -2,10 +2,10 @@
 
 репозиторий содержит 
 
-* автоматический запуск выгрузки в git через `GITSYNC`
-* запуск Sonar сканера через `docker`
-* отправка данных на сервер `SonarQube`
-* настройку для Visual Studio Code для подключения `Linter`
+* автоматический запуск выгрузки в git через `GITSYNC` - https://github.com/oscript-library/gitsync
+* запуск Sonar сканера через `docker` - https://github.com/silverbulleters-research/sonar-bring-me-back
+* отправка данных на сервер `SonarQube` - https://sonar.silverbulleters.org/dashboard?id=demo-1c
+* настройку для Visual Studio Code для подключения `Linter` - https://github.com/silverbulleters/sonarqube-inject-vsc
 
 ##№ Для работы используется
 
@@ -25,4 +25,4 @@
 
 ### Как работает
 
-[![img/SonarBSLDemo.gif](img/SonarBSLDemo.gif)]
+![img/SonarBSLDemo.gif](img/SonarBSLDemo.gif)]

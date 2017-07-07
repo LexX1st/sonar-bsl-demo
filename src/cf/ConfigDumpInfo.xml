@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.4">
 	<ConfigVersions>
-		<Metadata name="Catalog.Справочник1" id="67fa1387-3a3a-488b-8ebd-4605b09d708b" configVersion="ea4198fdd44eaa45857b3c62680c683b00000000">
+		<Metadata name="Catalog.Справочник1" id="67fa1387-3a3a-488b-8ebd-4605b09d708b" configVersion="b6c480e2ed1cdc458849cf3b7a5b91c500000000">
 			<Metadata name="Catalog.Справочник1.Attribute.Реквизит1" id="23792eda-aa35-401a-91d4-622739334fd7"/>
 		</Metadata>
-		<Metadata name="Catalog.Справочник1.ObjectModule" id="67fa1387-3a3a-488b-8ebd-4605b09d708b.0" configVersion="5af0810e0f225b4780bbd7a5ba51242d00000000"/>
+		<Metadata name="Catalog.Справочник1.ObjectModule" id="67fa1387-3a3a-488b-8ebd-4605b09d708b.0" configVersion="f95c25e49c9d744bab44cd7887cb212400000000"/>
 		<Metadata name="CommonModule.ОбщийМодуль1" id="4c37f88e-f2d7-42af-9756-40dc46d8d388" configVersion="dfeb00b73ebd1048b35851a7e3257cde00000000"/>
 		<Metadata name="CommonModule.ОбщийМодуль1.Module" id="4c37f88e-f2d7-42af-9756-40dc46d8d388.0" configVersion="ecd2b872735dce4c8c1b123fc6e9e34100000000"/>
 		<Metadata name="Configuration.ДемоSonarQube" id="761aded1-3cba-4280-bc17-e47ae8787344" configVersion="fa486e791934d54e83c628b3e3f2daf200000000"/>

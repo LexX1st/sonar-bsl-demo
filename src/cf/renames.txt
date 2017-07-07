@@ -3,4 +3,5 @@ Configuration.xml-->Configuration.xml
 CommonModules\ОбщийМодуль1.xml-->CommonModules\ОбщийМодуль1.xml
 CommonModules\ОбщийМодуль1\Ext\Module.bsl-->CommonModules\ОбщийМодуль1\Ext\Module.bsl
 DataProcessors\Обработка1.xml-->DataProcessors\Обработка1.xml
+DataProcessors\Обработка1\Ext\ObjectModule.bsl-->DataProcessors\Обработка1\Ext\ObjectModule.bsl
 Languages\Русский.xml-->Languages\Русский.xml

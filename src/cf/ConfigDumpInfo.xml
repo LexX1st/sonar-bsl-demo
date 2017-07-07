@@ -1,10 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.4">
 	<ConfigVersions>
+		<Metadata name="Catalog.Справочник1" id="67fa1387-3a3a-488b-8ebd-4605b09d708b" configVersion="1564406bd54fcd4da2d1b3ba2539f60300000000">
+			<Metadata name="Catalog.Справочник1.Attribute.Реквизит1" id="23792eda-aa35-401a-91d4-622739334fd7"/>
+		</Metadata>
 		<Metadata name="CommonModule.ОбщийМодуль1" id="4c37f88e-f2d7-42af-9756-40dc46d8d388" configVersion="dfeb00b73ebd1048b35851a7e3257cde00000000"/>
 		<Metadata name="CommonModule.ОбщийМодуль1.Module" id="4c37f88e-f2d7-42af-9756-40dc46d8d388.0" configVersion="ecd2b872735dce4c8c1b123fc6e9e34100000000"/>
-		<Metadata name="Configuration.ДемоSonarQube" id="761aded1-3cba-4280-bc17-e47ae8787344" configVersion="58537dfc7d0dfb4e9e35264adf07073000000000"/>
-		<Metadata name="DataProcessor.Обработка1" id="e8e24e2d-0718-4f87-bdbf-9001c62b00e7" configVersion="f58042a47f36ea4b8dc02d5df22c5e7200000000"/>
+		<Metadata name="Configuration.ДемоSonarQube" id="761aded1-3cba-4280-bc17-e47ae8787344" configVersion="f665a90a50c5504cbb0845fc16bb4dbb00000000"/>
+		<Metadata name="DataProcessor.Обработка1" id="e8e24e2d-0718-4f87-bdbf-9001c62b00e7" configVersion="0f73f073cfe2e14eb6c792cbd9007cb800000000"/>
+		<Metadata name="DataProcessor.Обработка1.Form.Форма" id="6ebef331-e7e3-45aa-a06d-c5b5b4845375" configVersion="10d4a13de0bb3642a97e1a2713d7107400000000"/>
+		<Metadata name="DataProcessor.Обработка1.Form.Форма.Form" id="6ebef331-e7e3-45aa-a06d-c5b5b4845375.0" configVersion="a897eec7c04c464eb999a3c5dcf6e2f300000000"/>
 		<Metadata name="DataProcessor.Обработка1.ObjectModule" id="e8e24e2d-0718-4f87-bdbf-9001c62b00e7.0" configVersion="27073714313b394c9a9b5df5ce6ffb1c00000000"/>
 		<Metadata name="Language.Русский" id="d5acf4ce-dfb0-4996-82ce-b9b97b65de0b" configVersion="90efca610e304347891a009df8ee2bf100000000"/>
 	</ConfigVersions>

@@ -1,29 +1,22 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
-	<DataProcessor uuid="e8e24e2d-0718-4f87-bdbf-9001c62b00e7">
-		<InternalInfo>
-			<xr:GeneratedType name="DataProcessorObject.Обработка1" category="Object">
-				<xr:TypeId>4afbc368-bb7a-4e5d-837b-d842fa7d27b7</xr:TypeId>
-				<xr:ValueId>e2b6beca-139f-4c63-8c35-48e0efaaefb2</xr:ValueId>
-			</xr:GeneratedType>
-			<xr:GeneratedType name="DataProcessorManager.Обработка1" category="Manager">
-				<xr:TypeId>e59e16ac-7856-4d44-a801-f7c06287ac2f</xr:TypeId>
-				<xr:ValueId>2c779d12-927d-4410-99ac-56b0f07a943b</xr:ValueId>
-			</xr:GeneratedType>
-		</InternalInfo>
+	<Form uuid="6ebef331-e7e3-45aa-a06d-c5b5b4845375">
 		<Properties>
-			<Name>Обработка1</Name>
-			<Synonym/>
+			<Name>Форма</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Форма</v8:content>
+				</v8:item>
+			</Synonym>
 			<Comment/>
-			<UseStandardCommands>true</UseStandardCommands>
-			<DefaultForm>DataProcessor.Обработка1.Form.Форма</DefaultForm>
-			<AuxiliaryForm/>
+			<FormType>Managed</FormType>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
+			<UsePurposes>
+				<v8:Value xsi:type="app:ApplicationUsePurpose">PersonalComputer</v8:Value>
+				<v8:Value xsi:type="app:ApplicationUsePurpose">MobileDevice</v8:Value>
+			</UsePurposes>
 			<ExtendedPresentation/>
-			<Explanation/>
 		</Properties>
-		<ChildObjects>
-			<Form>Форма</Form>
-		</ChildObjects>
-	</DataProcessor>
+	</Form>
 </MetaDataObject>

@@ -124,6 +124,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<CommonModule>ОбщийМодуль1</CommonModule>
+			<Catalog>Справочник1</Catalog>
 			<DataProcessor>Обработка1</DataProcessor>
 		</ChildObjects>
 	</Configuration>

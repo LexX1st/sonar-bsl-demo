@@ -21,7 +21,7 @@
 
 | Порог качества | Технический долг | Ошибки | Замечания по коду |  Сложность функций |
 |-|-|-|-|-|
-|[![Quality Gate](https://sonar.silverbulleters.org/api/badges/gate?key=demo-1c)](https://sonar.silverbulleters.org//dashboard/index/demo-1c>) |[![New Bugs](https://sonar.silverbulleters.org/api/badges/measure?key=demo-1c&metric=sqale_debt_ratio)](https://sonar.silverbulleters.org//dashboard/index/demo-1c) | [![Bugs](https://sonar.silverbulleters.org/api/badges/measure?key=demo-1c&metric=bugs)](https://sonar.silverbulleters.org//dashboard/index/demo-1c) | [![Bugs](https://sonar.silverbulleters.org/api/badges/measure?key=demo-1c&metric=code_smells)](https://sonar.silverbulleters.org//dashboard/index/demo-1c)| [![Bugs](https://sonar.silverbulleters.org/api/badges/measure?key=demo-1c&metric=function_complexity)](https://sonar.silverbulleters.org//dashboard/index/demo-1c)|
+|[![Quality Gate](https://sonar.silverbulleters.org/api/badges/gate?key=demo-1c)](https://sonar.silverbulleters.org//dashboard/index/demo-1c) |[![New Bugs](https://sonar.silverbulleters.org/api/badges/measure?key=demo-1c&metric=sqale_debt_ratio)](https://sonar.silverbulleters.org//dashboard/index/demo-1c) | [![Bugs](https://sonar.silverbulleters.org/api/badges/measure?key=demo-1c&metric=bugs)](https://sonar.silverbulleters.org//dashboard/index/demo-1c) | [![Bugs](https://sonar.silverbulleters.org/api/badges/measure?key=demo-1c&metric=code_smells)](https://sonar.silverbulleters.org//dashboard/index/demo-1c)| [![Bugs](https://sonar.silverbulleters.org/api/badges/measure?key=demo-1c&metric=function_complexity)](https://sonar.silverbulleters.org//dashboard/index/demo-1c)|
 
 ### Как работает
 

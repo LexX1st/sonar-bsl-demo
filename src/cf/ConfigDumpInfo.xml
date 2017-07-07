@@ -9,8 +9,8 @@
 		<Metadata name="CommonModule.ОбщийМодуль1.Module" id="4c37f88e-f2d7-42af-9756-40dc46d8d388.0" configVersion="ecd2b872735dce4c8c1b123fc6e9e34100000000"/>
 		<Metadata name="Configuration.ДемоSonarQube" id="761aded1-3cba-4280-bc17-e47ae8787344" configVersion="fa486e791934d54e83c628b3e3f2daf200000000"/>
 		<Metadata name="DataProcessor.Обработка1" id="e8e24e2d-0718-4f87-bdbf-9001c62b00e7" configVersion="0f73f073cfe2e14eb6c792cbd9007cb800000000"/>
-		<Metadata name="DataProcessor.Обработка1.Form.Форма" id="6ebef331-e7e3-45aa-a06d-c5b5b4845375" configVersion="4ac006573bd93248ac2c666276f19ddb00000000"/>
-		<Metadata name="DataProcessor.Обработка1.Form.Форма.Form" id="6ebef331-e7e3-45aa-a06d-c5b5b4845375.0" configVersion="94aac51188cba64b8a07138d2f91827300000000"/>
+		<Metadata name="DataProcessor.Обработка1.Form.Форма" id="6ebef331-e7e3-45aa-a06d-c5b5b4845375" configVersion="004892fb2da2e849be1a907a9f26b3e800000000"/>
+		<Metadata name="DataProcessor.Обработка1.Form.Форма.Form" id="6ebef331-e7e3-45aa-a06d-c5b5b4845375.0" configVersion="a754c6f39d2c2e4a97665de06d3ab70500000000"/>
 		<Metadata name="DataProcessor.Обработка1.ObjectModule" id="e8e24e2d-0718-4f87-bdbf-9001c62b00e7.0" configVersion="27073714313b394c9a9b5df5ce6ffb1c00000000"/>
 		<Metadata name="Document.Документ1" id="8f814e72-a764-47a8-b2c5-26fe13d46101" configVersion="3823ea207e611c4a94beee75bae8baa600000000"/>
 		<Metadata name="Document.Документ1.Form.ФормаДокумента" id="315fca84-9241-49b1-b272-8d96f6ceb1a8" configVersion="ddcf22364292e54e9d15427fedbef6ac00000000"/>

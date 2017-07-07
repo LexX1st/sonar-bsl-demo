@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.4">
 	<ConfigVersions>
-		<Metadata name="CommonModule.ОбщийМодуль1" id="4c37f88e-f2d7-42af-9756-40dc46d8d388" configVersion="b1d6da0f4701a74796cdaeac8a20ae5e00000000"/>
-		<Metadata name="CommonModule.ОбщийМодуль1.Module" id="4c37f88e-f2d7-42af-9756-40dc46d8d388.0" configVersion="3ecb184931bdc4428e5eeffe6fc5100d00000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль1" id="4c37f88e-f2d7-42af-9756-40dc46d8d388" configVersion="dfeb00b73ebd1048b35851a7e3257cde00000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль1.Module" id="4c37f88e-f2d7-42af-9756-40dc46d8d388.0" configVersion="ecd2b872735dce4c8c1b123fc6e9e34100000000"/>
 		<Metadata name="Configuration.ДемоSonarQube" id="761aded1-3cba-4280-bc17-e47ae8787344" configVersion="58537dfc7d0dfb4e9e35264adf07073000000000"/>
 		<Metadata name="DataProcessor.Обработка1" id="e8e24e2d-0718-4f87-bdbf-9001c62b00e7" configVersion="e033b99709775f468450395077c73de800000000"/>
 		<Metadata name="Language.Русский" id="d5acf4ce-dfb0-4996-82ce-b9b97b65de0b" configVersion="90efca610e304347891a009df8ee2bf100000000"/>

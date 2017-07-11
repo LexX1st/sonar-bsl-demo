@@ -5,8 +5,8 @@
 			<Metadata name="Catalog.Справочник1.Attribute.Реквизит1" id="23792eda-aa35-401a-91d4-622739334fd7"/>
 		</Metadata>
 		<Metadata name="Catalog.Справочник1.ObjectModule" id="67fa1387-3a3a-488b-8ebd-4605b09d708b.0" configVersion="93776e7bbdd4244a893fc3c0f5b28c2a00000000"/>
-		<Metadata name="CommonModule.ОбщийМодуль1" id="4c37f88e-f2d7-42af-9756-40dc46d8d388" configVersion="dfeb00b73ebd1048b35851a7e3257cde00000000"/>
-		<Metadata name="CommonModule.ОбщийМодуль1.Module" id="4c37f88e-f2d7-42af-9756-40dc46d8d388.0" configVersion="ecd2b872735dce4c8c1b123fc6e9e34100000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль1" id="4c37f88e-f2d7-42af-9756-40dc46d8d388" configVersion="3efd594021fdc741bdb5d3941c8fbc6f00000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль1.Module" id="4c37f88e-f2d7-42af-9756-40dc46d8d388.0" configVersion="aa891b2eb55cf94fb2284847fe67cb2700000000"/>
 		<Metadata name="Configuration.ДемоSonarQube" id="761aded1-3cba-4280-bc17-e47ae8787344" configVersion="fa486e791934d54e83c628b3e3f2daf200000000"/>
 		<Metadata name="DataProcessor.Обработка1" id="e8e24e2d-0718-4f87-bdbf-9001c62b00e7" configVersion="2c9c0ea768bb024a9681a140552e012200000000"/>
 		<Metadata name="DataProcessor.Обработка1.Form.Форма" id="6ebef331-e7e3-45aa-a06d-c5b5b4845375" configVersion="004892fb2da2e849be1a907a9f26b3e800000000"/>

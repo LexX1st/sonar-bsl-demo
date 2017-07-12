@@ -1,0 +1,38 @@
+version: '2'
+services:
+  pgadmin:
+    image: chorss/docker-pgadmin4:latest
+    ports:
+      - 5050:5050
+    links:
+      - db:postgres
+  db:
+    image: sameersbn/postgresql:9.6-2
+    ports:
+      - 5432:5432
+    environment:
+    - DB_USER=sonar
+    - DB_PASS=verystrange
+    - DB_NAME=sonar_uat
+    - DB_EXTENSION=pg_trgm
+  sonar:
+    image: sonarqube
+    ports:
+      - 9000:9000
+      - 9092:9092
+    environment:
+      - SONARQUBE_JDBC_USERNAME=sonar
+      - SONARQUBE_JDBC_PASSWORD=verystrange
+      - SONARQUBE_JDBC_URL=jdbc:postgresql://db/sonar_uat
+    volumes:
+      - ./.plugins:/opt/sonarqube/extensions
+    links:
+      - db:db
+  pghero:
+    image: bmorton/pghero
+    ports:
+      - 3001:3001
+    links:
+      - db:db
+    environment:
+      - DATABASE_URL=postgres://postgres@db:5432/verystrange

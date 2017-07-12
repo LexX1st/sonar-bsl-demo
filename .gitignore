@@ -3,3 +3,4 @@ build
 depot1c
 .sonarcache
 .scannerwork
+.plugins

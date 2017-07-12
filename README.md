@@ -13,6 +13,8 @@
 * oscript.io с пакетами `vanessa-runner` и `gitsync`
 * образ docker `silverbulleters/sonar-history-runner`
 
+примечание: для локальной отладки используется `docker-compose` для запуска полноценного контура SonarQube
+
 ### Результат анализа и его история
 
 * доступен тут https://sonar.silverbulleters.org/dashboard/index/demo-1c

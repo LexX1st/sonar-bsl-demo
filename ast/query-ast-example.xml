@@ -1,0 +1,204 @@
+<QUERY_TEXT tokenValue="ВЫБРАТЬ" tokenLine="3" tokenColumn="0">
+  <QUERY_DESCRIPTION tokenValue="ВЫБРАТЬ" tokenLine="3" tokenColumn="0">
+    <SELECT tokenValue="ВЫБРАТЬ" tokenLine="3" tokenColumn="0">
+      <SELECT_RU tokenValue="ВЫБРАТЬ" tokenLine="3" tokenColumn="0"/>
+    </SELECT>
+    <TOP_EXPRESSION tokenValue="ПЕРВЫЕ" tokenLine="3" tokenColumn="8">
+      <TOP tokenValue="ПЕРВЫЕ" tokenLine="3" tokenColumn="8">
+        <TOP_RU tokenValue="ПЕРВЫЕ" tokenLine="3" tokenColumn="8"/>
+      </TOP>
+      <NUMERIC tokenValue="10" tokenLine="3" tokenColumn="15"/>
+    </TOP_EXPRESSION>
+    <SELECT_FIELD_LIST tokenValue="ВАЛЮТЫ" tokenLine="5" tokenColumn="1">
+      <FIELD_EXPRESSION tokenValue="ВАЛЮТЫ" tokenLine="5" tokenColumn="1">
+        <QUALIFIED_NAME tokenValue="ВАЛЮТЫ" tokenLine="5" tokenColumn="1">
+          <IDENTIFIER tokenValue="ВАЛЮТЫ" tokenLine="5" tokenColumn="1"/>
+          <DOT tokenValue="." tokenLine="5" tokenColumn="7"/>
+          <REFS_RU tokenValue="ССЫЛКА" tokenLine="5" tokenColumn="8"/>
+        </QUALIFIED_NAME>
+        <ALIAS tokenValue="КАК" tokenLine="5" tokenColumn="15">
+          <AS tokenValue="КАК" tokenLine="5" tokenColumn="15">
+            <AS_RU tokenValue="КАК" tokenLine="5" tokenColumn="15"/>
+          </AS>
+          <REFS_RU tokenValue="ССЫЛКА" tokenLine="5" tokenColumn="19"/>
+        </ALIAS>
+      </FIELD_EXPRESSION>
+      <COMMA tokenValue="," tokenLine="5" tokenColumn="25"/>
+      <FIELD_EXPRESSION tokenValue="ВЫРАЗИТЬ" tokenLine="6" tokenColumn="8">
+        <CAST_OPERATOR tokenValue="ВЫРАЗИТЬ" tokenLine="6" tokenColumn="8">
+          <CAST tokenValue="ВЫРАЗИТЬ" tokenLine="6" tokenColumn="8">
+            <CAST_RU tokenValue="ВЫРАЗИТЬ" tokenLine="6" tokenColumn="8"/>
+          </CAST>
+          <PAREN_L tokenValue="(" tokenLine="6" tokenColumn="16"/>
+          <QUALIFIED_NAME tokenValue="ВАЛЮТЫ" tokenLine="6" tokenColumn="17">
+            <IDENTIFIER tokenValue="ВАЛЮТЫ" tokenLine="6" tokenColumn="17"/>
+            <DOT tokenValue="." tokenLine="6" tokenColumn="23"/>
+            <IDENTIFIER tokenValue="КОД" tokenLine="6" tokenColumn="24"/>
+          </QUALIFIED_NAME>
+          <AS tokenValue="КАК" tokenLine="6" tokenColumn="28">
+            <AS_RU tokenValue="КАК" tokenLine="6" tokenColumn="28"/>
+          </AS>
+          <FUNCTION_CALL tokenValue="ЧИСЛО" tokenLine="6" tokenColumn="32">
+            <IDENTIFIER tokenValue="ЧИСЛО" tokenLine="6" tokenColumn="32"/>
+            <ARGS_LIST tokenValue="(" tokenLine="6" tokenColumn="37">
+              <PAREN_L tokenValue="(" tokenLine="6" tokenColumn="37"/>
+              <LITERAL tokenValue="32" tokenLine="6" tokenColumn="38">
+                <NUMERIC tokenValue="32" tokenLine="6" tokenColumn="38"/>
+              </LITERAL>
+              <COMMA tokenValue="," tokenLine="6" tokenColumn="40"/>
+              <LITERAL tokenValue="1" tokenLine="6" tokenColumn="41">
+                <NUMERIC tokenValue="1" tokenLine="6" tokenColumn="41"/>
+              </LITERAL>
+              <PAREN_R tokenValue=")" tokenLine="6" tokenColumn="42"/>
+            </ARGS_LIST>
+          </FUNCTION_CALL>
+          <PAREN_R tokenValue=")" tokenLine="6" tokenColumn="43"/>
+        </CAST_OPERATOR>
+        <ALIAS tokenValue="КАК" tokenLine="6" tokenColumn="45">
+          <AS tokenValue="КАК" tokenLine="6" tokenColumn="45">
+            <AS_RU tokenValue="КАК" tokenLine="6" tokenColumn="45"/>
+          </AS>
+          <IDENTIFIER tokenValue="ПОЛЕ1" tokenLine="6" tokenColumn="49"/>
+        </ALIAS>
+      </FIELD_EXPRESSION>
+      <COMMA tokenValue="," tokenLine="6" tokenColumn="54"/>
+      <FIELD_EXPRESSION tokenValue="ВЫРАЗИТЬ" tokenLine="7" tokenColumn="8">
+        <CAST_OPERATOR tokenValue="ВЫРАЗИТЬ" tokenLine="7" tokenColumn="8">
+          <CAST tokenValue="ВЫРАЗИТЬ" tokenLine="7" tokenColumn="8">
+            <CAST_RU tokenValue="ВЫРАЗИТЬ" tokenLine="7" tokenColumn="8"/>
+          </CAST>
+          <PAREN_L tokenValue="(" tokenLine="7" tokenColumn="16"/>
+          <QUALIFIED_NAME tokenValue="ВАЛЮТЫ" tokenLine="7" tokenColumn="17">
+            <IDENTIFIER tokenValue="ВАЛЮТЫ" tokenLine="7" tokenColumn="17"/>
+            <DOT tokenValue="." tokenLine="7" tokenColumn="23"/>
+            <IDENTIFIER tokenValue="КОД" tokenLine="7" tokenColumn="24"/>
+          </QUALIFIED_NAME>
+          <AS tokenValue="КАК" tokenLine="7" tokenColumn="28">
+            <AS_RU tokenValue="КАК" tokenLine="7" tokenColumn="28"/>
+          </AS>
+          <FUNCTION_CALL tokenValue="ЧИСЛО" tokenLine="7" tokenColumn="32">
+            <IDENTIFIER tokenValue="ЧИСЛО" tokenLine="7" tokenColumn="32"/>
+            <ARGS_LIST tokenValue="(" tokenLine="7" tokenColumn="37">
+              <PAREN_L tokenValue="(" tokenLine="7" tokenColumn="37"/>
+              <LITERAL tokenValue="10" tokenLine="7" tokenColumn="38">
+                <NUMERIC tokenValue="10" tokenLine="7" tokenColumn="38"/>
+              </LITERAL>
+              <COMMA tokenValue="," tokenLine="7" tokenColumn="40"/>
+              <LITERAL tokenValue="1" tokenLine="7" tokenColumn="41">
+                <NUMERIC tokenValue="1" tokenLine="7" tokenColumn="41"/>
+              </LITERAL>
+              <PAREN_R tokenValue=")" tokenLine="7" tokenColumn="42"/>
+            </ARGS_LIST>
+          </FUNCTION_CALL>
+          <PAREN_R tokenValue=")" tokenLine="7" tokenColumn="43"/>
+        </CAST_OPERATOR>
+        <ALIAS tokenValue="КАК" tokenLine="7" tokenColumn="45">
+          <AS tokenValue="КАК" tokenLine="7" tokenColumn="45">
+            <AS_RU tokenValue="КАК" tokenLine="7" tokenColumn="45"/>
+          </AS>
+          <IDENTIFIER tokenValue="ПОЛЕ2" tokenLine="7" tokenColumn="49"/>
+        </ALIAS>
+      </FIELD_EXPRESSION>
+      <COMMA tokenValue="," tokenLine="7" tokenColumn="54"/>
+      <FIELD_EXPRESSION tokenValue="ВАЛЮТЫ" tokenLine="8" tokenColumn="1">
+        <QUALIFIED_NAME tokenValue="ВАЛЮТЫ" tokenLine="8" tokenColumn="1">
+          <IDENTIFIER tokenValue="ВАЛЮТЫ" tokenLine="8" tokenColumn="1"/>
+          <DOT tokenValue="." tokenLine="8" tokenColumn="7"/>
+          <IDENTIFIER tokenValue="КОД" tokenLine="8" tokenColumn="8"/>
+        </QUALIFIED_NAME>
+      </FIELD_EXPRESSION>
+      <COMMA tokenValue="," tokenLine="8" tokenColumn="11"/>
+      <FIELD_EXPRESSION tokenValue="ВАЛЮТЫ" tokenLine="9" tokenColumn="1">
+        <QUALIFIED_NAME tokenValue="ВАЛЮТЫ" tokenLine="9" tokenColumn="1">
+          <IDENTIFIER tokenValue="ВАЛЮТЫ" tokenLine="9" tokenColumn="1"/>
+          <DOT tokenValue="." tokenLine="9" tokenColumn="7"/>
+          <IDENTIFIER tokenValue="НАИМЕНОВАНИЕ" tokenLine="9" tokenColumn="8"/>
+        </QUALIFIED_NAME>
+      </FIELD_EXPRESSION>
+    </SELECT_FIELD_LIST>
+    <TEMP_TABLE tokenValue="ПОМЕСТИТЬ" tokenLine="11" tokenColumn="0">
+      <INTO tokenValue="ПОМЕСТИТЬ" tokenLine="11" tokenColumn="0">
+        <INTO_RU tokenValue="ПОМЕСТИТЬ" tokenLine="11" tokenColumn="0"/>
+      </INTO>
+      <IDENTIFIER tokenValue="ВТКАКАЯТО" tokenLine="11" tokenColumn="10"/>
+    </TEMP_TABLE>
+    <FROM_CLAUSE tokenValue="ИЗ" tokenLine="13" tokenColumn="2">
+      <FROM tokenValue="ИЗ" tokenLine="13" tokenColumn="2">
+        <FROM_RU tokenValue="ИЗ" tokenLine="13" tokenColumn="2"/>
+      </FROM>
+      <QUERY_SOURCES tokenValue="СПРАВОЧНИК" tokenLine="14" tokenColumn="3">
+        <QUERY_SOURCE tokenValue="СПРАВОЧНИК" tokenLine="14" tokenColumn="3">
+          <TABLE_DEF tokenValue="СПРАВОЧНИК" tokenLine="14" tokenColumn="3">
+            <QUALIFIED_NAME tokenValue="СПРАВОЧНИК" tokenLine="14" tokenColumn="3">
+              <IDENTIFIER tokenValue="СПРАВОЧНИК" tokenLine="14" tokenColumn="3"/>
+              <DOT tokenValue="." tokenLine="14" tokenColumn="13"/>
+              <IDENTIFIER tokenValue="ВАЛЮТЫ" tokenLine="14" tokenColumn="14"/>
+            </QUALIFIED_NAME>
+          </TABLE_DEF>
+          <ALIAS tokenValue="КАК" tokenLine="14" tokenColumn="21">
+            <AS tokenValue="КАК" tokenLine="14" tokenColumn="21">
+              <AS_RU tokenValue="КАК" tokenLine="14" tokenColumn="21"/>
+            </AS>
+            <IDENTIFIER tokenValue="ВАЛЮТЫ" tokenLine="14" tokenColumn="25"/>
+          </ALIAS>
+        </QUERY_SOURCE>
+      </QUERY_SOURCES>
+    </FROM_CLAUSE>
+  </QUERY_DESCRIPTION>
+  <SEMICOLON tokenValue=";" tokenLine="14" tokenColumn="31"/>
+  <QUERY_TEXT tokenValue="ВЫБРАТЬ" tokenLine="17" tokenColumn="0">
+    <QUERY_DESCRIPTION tokenValue="ВЫБРАТЬ" tokenLine="17" tokenColumn="0">
+      <SELECT tokenValue="ВЫБРАТЬ" tokenLine="17" tokenColumn="0">
+        <SELECT_RU tokenValue="ВЫБРАТЬ" tokenLine="17" tokenColumn="0"/>
+      </SELECT>
+      <SELECT_FIELD_LIST tokenValue="ВТКАКАЯТО" tokenLine="18" tokenColumn="1">
+        <FIELD_EXPRESSION tokenValue="ВТКАКАЯТО" tokenLine="18" tokenColumn="1">
+          <QUALIFIED_NAME tokenValue="ВТКАКАЯТО" tokenLine="18" tokenColumn="1">
+            <IDENTIFIER tokenValue="ВТКАКАЯТО" tokenLine="18" tokenColumn="1"/>
+            <DOT tokenValue="." tokenLine="18" tokenColumn="10"/>
+            <REFS_RU tokenValue="ССЫЛКА" tokenLine="18" tokenColumn="11"/>
+          </QUALIFIED_NAME>
+        </FIELD_EXPRESSION>
+        <COMMA tokenValue="," tokenLine="18" tokenColumn="17"/>
+        <FIELD_EXPRESSION tokenValue="ВТКАКАЯТО" tokenLine="19" tokenColumn="1">
+          <QUALIFIED_NAME tokenValue="ВТКАКАЯТО" tokenLine="19" tokenColumn="1">
+            <IDENTIFIER tokenValue="ВТКАКАЯТО" tokenLine="19" tokenColumn="1"/>
+            <DOT tokenValue="." tokenLine="19" tokenColumn="10"/>
+            <IDENTIFIER tokenValue="КОД" tokenLine="19" tokenColumn="11"/>
+          </QUALIFIED_NAME>
+        </FIELD_EXPRESSION>
+        <COMMA tokenValue="," tokenLine="19" tokenColumn="14"/>
+        <FIELD_EXPRESSION tokenValue="ВТКАКАЯТО" tokenLine="21" tokenColumn="1">
+          <QUALIFIED_NAME tokenValue="ВТКАКАЯТО" tokenLine="21" tokenColumn="1">
+            <IDENTIFIER tokenValue="ВТКАКАЯТО" tokenLine="21" tokenColumn="1"/>
+            <DOT tokenValue="." tokenLine="21" tokenColumn="10"/>
+            <IDENTIFIER tokenValue="НАИМЕНОВАНИЕ" tokenLine="21" tokenColumn="11"/>
+          </QUALIFIED_NAME>
+        </FIELD_EXPRESSION>
+      </SELECT_FIELD_LIST>
+      <FROM_CLAUSE tokenValue="ИЗ" tokenLine="23" tokenColumn="0">
+        <FROM tokenValue="ИЗ" tokenLine="23" tokenColumn="0">
+          <FROM_RU tokenValue="ИЗ" tokenLine="23" tokenColumn="0"/>
+        </FROM>
+        <QUERY_SOURCES tokenValue="ВТКАКАЯТО" tokenLine="23" tokenColumn="3">
+          <QUERY_SOURCE tokenValue="ВТКАКАЯТО" tokenLine="23" tokenColumn="3">
+            <TABLE_DEF tokenValue="ВТКАКАЯТО" tokenLine="23" tokenColumn="3">
+              <QUALIFIED_NAME tokenValue="ВТКАКАЯТО" tokenLine="23" tokenColumn="3">
+                <IDENTIFIER tokenValue="ВТКАКАЯТО" tokenLine="23" tokenColumn="3"/>
+              </QUALIFIED_NAME>
+            </TABLE_DEF>
+            <ALIAS tokenValue="КАК" tokenLine="23" tokenColumn="13">
+              <AS tokenValue="КАК" tokenLine="23" tokenColumn="13">
+                <AS_RU tokenValue="КАК" tokenLine="23" tokenColumn="13"/>
+              </AS>
+              <IDENTIFIER tokenValue="ВТКАКАЯТО" tokenLine="23" tokenColumn="17"/>
+            </ALIAS>
+          </QUERY_SOURCE>
+        </QUERY_SOURCES>
+      </FROM_CLAUSE>
+    </QUERY_DESCRIPTION>
+    <AUTOORDER tokenValue="АВТОУПОРЯДОЧИВАНИЕ" tokenLine="25" tokenColumn="0">
+      <AUTOORDER_RU tokenValue="АВТОУПОРЯДОЧИВАНИЕ" tokenLine="25" tokenColumn="0"/>
+    </AUTOORDER>
+  </QUERY_TEXT>
+</QUERY_TEXT>

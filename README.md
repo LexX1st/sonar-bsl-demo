@@ -7,7 +7,7 @@
 * отправка данных на сервер `SonarQube` - [https://sonar.silverbulleters.org/dashboard?id=demo-1c](https://sonar.silverbulleters.org/dashboard?id=demo-1c)
 * настройку для Visual Studio Code для подключения `Linter` - [https://github.com/silverbulleters/sonarqube-inject-vsc](https://github.com/silverbulleters/sonarqube-inject-vsc)
 
-## № Для работы используется
+### Для работы используется
 
 * хранилище 1С
 * oscript.io с пакетами `vanessa-runner` и `gitsync`

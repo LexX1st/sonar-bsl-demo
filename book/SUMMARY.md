@@ -10,7 +10,5 @@
   * [Установка расширений](5-extensions/extinstall.md)
   * [Поддержка языка 1С](5-extensions/BSL/README.md)
 * [Приложения](external/README.md)
-  * [GIT и CICD сервера](/external/cicdservers/)
-
-
-
+  * [GIT и CICD сервера](external/cicdservers/README.md)
+  

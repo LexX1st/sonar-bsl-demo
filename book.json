@@ -1,4 +1,14 @@
 {
     "root": "book",
-    "author": "SilverBulleters, LLC (b2b@silverbulleters.org)"
+    "author": "SilverBulleters, LLC (b2b@silverbulleters.org)",
+    "plugins": [
+        "githubcontributors"
+    ],
+    "pluginsConfig": {
+        "githubcontributors": {
+            "githubOwner": "silverbulleters",
+            "githubRepository": "sonar-bsl-demo",
+            "contributorWidth": "300px"
+        }
+    }
 }

@@ -1,5 +1,4 @@
-«SonarQube как платформа»
-=========================
+# «SonarQube как платформа»
 
 данная документация является неофициальным комплектом документов описания
 платформы SonarQube, предназначенным для русскоязычной аудитории разработчиков,
@@ -19,12 +18,15 @@
 -   Для скачивания в форматах PDF, ePUB, Mobi
     <https://www.gitbook.com/book/silverbulleters/sonarqube-na-russkom/details>
 
-Авторство
----------
+### Авторство
+
 
 Авторами данной документации являются следующие участники
 
-{% GitHubContributors %} {% endGitHubContributors %}
+{% GitHubContributors %}
+{% endGitHubContributors %}
 
 дополнительную информацию всегда можно получить в онлайн чате Giiter -
 <https://gitter.im/sonarqube-ru/public>
+
+-------

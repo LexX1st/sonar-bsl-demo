@@ -3,6 +3,8 @@
 * [О документации](README.md)
 * [Введение](0-intro/README.md)
 * [Инсталяция](1-install/README.md)
+  * [Установка сервера](1-install/1-server/README.md)
+  * [Установка анализатора](1-install/2-runner/README.md)
 * [Права доступа](2-acl/README.md)
 * [Запуск анализа](3-analyze/README.md)
 * [Метрики](4-metrics/README.md)

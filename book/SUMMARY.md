@@ -6,5 +6,7 @@
 * [Запуск анализа](3-analyze/README.md)
 * [Метрики](4-metrics/README.md)
 * [Расширения](5-extensions/README.md)
-   * [Поддержка языка 1С](5-extensions/BSL/README.md)
+  * Установка расширений
+  * [Поддержка языка 1С](5-extensions/BSL/README.md)
 * [Дополнительные статьи](external/README.md)
+

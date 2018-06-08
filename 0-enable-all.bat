@@ -1,9 +1,12 @@
-mkdir -p ./depot1c
-mkdir -p ./build/ib
+rem mkdir -p ./depot1c
+rem mkdir -p ./build/ib
+IF NOT EXIST depot1c mkdir depot1c
+IF NOT EXIST .plugins mkdir .plugins
+IF NOT EXIST .sonarhome mkdir .sonarhome
 
-opm install vanessa-runner
-opm install gitsync
+call opm install vanessa-runner
+call opm install gitsync
 
-vrunner init-dev --src ./src/cf
+call vrunner init-dev --src ./src/cf
 
 docker-compose up -d

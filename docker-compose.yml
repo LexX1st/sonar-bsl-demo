@@ -16,7 +16,7 @@ services:
     - DB_NAME=sonar_uat
     - DB_EXTENSION=pg_trgm
   sonar:
-    image: sonarqube
+    image: sonarqube:lts-alpine
     ports:
       - 9000:9000
       - 9092:9092
@@ -26,6 +26,7 @@ services:
       - SONARQUBE_JDBC_URL=jdbc:postgresql://db/sonar_uat
     volumes:
       - ./.plugins:/opt/sonarqube/extensions
+      - ./.sonarhome:/home/sonarqube/
     links:
       - db:db
   pghero:

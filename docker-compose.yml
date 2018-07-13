@@ -16,7 +16,7 @@ services:
     - DB_NAME=sonar_uat
     - DB_EXTENSION=pg_trgm
   sonar:
-    image: sonarqube:lts-alpine
+    image: sonarqube:7.1-alpine
     ports:
       - 9000:9000
       - 9092:9092

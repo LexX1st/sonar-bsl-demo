@@ -48,3 +48,16 @@
 * посмотри как это делается для языка запросов [пример AST для SDBL](./ast/README.md)
 
 ![img/SonarBSLDemo.gif](img/XPathDemo.gif)
+
+## Настройка запуска
+
+* положить лицензию `sonarqube-bsl-plugin.lic` в каталог `.sonarhome`
+* положить файл плагина `sonar-bsl-plugin-1.11-SNAPSHOT.jar` в каталог `.plugins\plugins`
+* запустить `0-enable-all.bat` (Windows) или `0-enable-all.sh` (Linux)
+* для проверки истории своей конфигурации положить файлы хранилища 1С в каталог `depot1c`
+  * и запустить `1-sync-git.bat` 
+  * начнется выгрузка исходников из хранилища 1С в репозиторий Git
+  * а затем анализ каждого помещения инструментами Sonargube и плагином Sonargube BSL Plugin
+* для единичного анализа своей конфигурации положить исходники конфигурации в каталог `src/cf`
+  * и запустить `2-sonar-scan.bat`
+  * будет выполнен анализ конфигурации инструментами Sonargube и плагином Sonargube BSL Plugin
